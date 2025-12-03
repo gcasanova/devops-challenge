@@ -37,3 +37,9 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+.terraform.tfstate.lock.info
